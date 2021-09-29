@@ -1,6 +1,7 @@
 # DTW-distance-in-kNN-classifier
 **Consonant classification with Dynamic Time Warped (DTW) distance metric in kNN classifier**
 
+
 **Problem Statement:**
 
 Carry out consonant classification and find out the role of different features and distance measures for the classification task. Six different consonants will be used for this purpose, namely, /p/, /t/, /k/, /b/, /d/, and /g/. There are four different classification tasks (CTs) as follows:
